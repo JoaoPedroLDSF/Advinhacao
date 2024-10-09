@@ -37,7 +37,8 @@ Se quiser aprimorar o projeto, aqui estão algumas sugestões:
 ✅ Adicionar um contador de tempo para medir quanto tempo o jogador levou para encontrar o número.
 ✅ Criar um sistema de placar para armazenar o menor número de tentativas para cada jogador.
 ✅ Disponibilizar um botão de "Reiniciar Jogo" para facilitar a repetição da brincadeira.
-🔗 Links Úteis
+🔗 Links Úteis https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Math/random
+🔗 Links Úteis https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
 Documentação do Math.random() - Saiba mais sobre como funciona a geração de números aleatórios no JavaScript.
 Referência de Sintaxe de JavaScript - Guia completo de referência de sintaxe e boas práticas.
 🔧 Melhorias Futuras
